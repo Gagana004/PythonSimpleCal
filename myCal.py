@@ -68,3 +68,6 @@ btnDiv = Button(master=root, text="/", padx=16, fg='black',bg="powder blue", fon
 btnDiv.grid(row=4,column=3)
 
 root.mainloop()
+
+
+# Already here to get an idea for clone repository
